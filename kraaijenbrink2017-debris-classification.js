@@ -21,9 +21,9 @@
 
 var srtm30     = ee.Image("USGS/SRTMGL1_003");
 var ls8rfl     = ee.ImageCollection("LANDSAT/LC8_L1T_TOA");
-var rgihull    = ee.FeatureCollection("ft:1mWxDDWL3Wu1dW0Y46Up2GsIUY3_geWkHygRTRGMa");
+var rgihull    = ee.FeatureCollection("users/philipkraaijenbrink/hma-15-degrees/rgi50_asia_10kmBuff_hull");
 var rgimask    = ee.Image("users/philipkraaijenbrink/hma-15-degrees/rgi50_arealim025_05arcsec_rgiid");
-var rgiregions = ee.FeatureCollection("ft:1Gr8cFdfSmEVqsNArg0uCfn_7NUw7O1s-QUyKx0TC");
+var rgiregions = ee.FeatureCollection("users/philipkraaijenbrink/hma-15-degrees/rgi50_O2Regions_asia");
 var astem      = ee.Image("NASA/ASTER_GED/AG100_003");
 
     
