@@ -6,7 +6,7 @@
 Google Earth Engine script in JavaScript that performs Landsat satellite image analysis and debris-cover classification.
 
 ##### kraaijenbrink2017-mbg-model.r
-The main model script written in R. Required source data can be found [here](https://mountainhydrology.org/data-nature-2017).
+The main model script written in R. Required source data can be found here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3346675.svg)](https://doi.org/10.5281/zenodo.3346675)
 
 ##### kraaijenbrink2017-regional-aggregation.r
 Script to aggregate the model output to (RGI) regions.
