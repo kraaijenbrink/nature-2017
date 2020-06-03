@@ -9,7 +9,7 @@
 ####  http://doi.org/10.1038/nature23878
 ####
 ####  Required input data available for download at:
-####  https://www.mountainhydrology.org/data-nature-2017
+####  https://doi.org/10.5281/zenodo.3346675
 ####
 ####
 
